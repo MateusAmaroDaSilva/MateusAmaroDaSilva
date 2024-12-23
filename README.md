@@ -10,8 +10,8 @@
 
   <!-- Texto e Logos -->
   <div style="text-align: center;">
-    <h1>Aprendendo</h1>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-: 20px;">
+    <h1>Habilidades em Construção</h1>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <img height="50" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img height="50" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img height="50" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
